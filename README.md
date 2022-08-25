@@ -9,4 +9,4 @@ This is the link to my application, file:///C:/Users/jmart/Desktop/Coding_Challe
 This is the link to my Github repository that contains my code, https://github.com/JLeon1393/Jonathans-Online-SocialMedia-Management
 
 This is also a screenshot of my application.
-![screencapture-file-C-Users-jmart-Desktop-Coding-Challenges-Jonathans-HTML-Git-CSS-Challenge-index-html-2022-08-22-01_49_23](https://user-images.githubusercontent.com/111095820/186029725-2d05ed6d-25a8-4faf-bcfa-8bff1412458b.png)
+[![screencapture-file-C-Users-jmart-OneDrive-Desktop-Coding-Challenges-Jonathans-Online-SocialMedia-Management-index-html-2022-08-24-22_39_57](https://user-images.githubusercontent.com/111095820/186563678-84c6d130-4983-4fc7-84db-15bafcb62ee7.png)]
