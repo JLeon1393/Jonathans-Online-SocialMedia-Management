@@ -45,7 +45,7 @@ a {
 }
 
 p {
-    font-size: 20px;
+    font-size: 22px;
 }
 
 .hero {
@@ -180,7 +180,5 @@ p {
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
     text-align: center;
 
-    font-size: 20px;
+    font-size: 23px;
 }
-
-<!--If you have more than one thing which uses the same CSS then the individual selectors can be combined into a selector list using a comma after each selector so that the rule is applied to all of the individual selectors--> 
