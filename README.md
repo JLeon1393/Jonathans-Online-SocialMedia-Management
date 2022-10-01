@@ -4,7 +4,7 @@ I modified the given website and refactored the starting code to make it both ac
 I made changes such as increasing the font sizes, adding CSS selectors such as "hover", adding semantic elements such as "footer" and "header", and changing the colors to make the contrast better to read. 
 I've also cleaned up the starter code a little so that the semantic structure is organized and easier to read.
 
-This is the link to my application, file:///C:/Users/jmart/Desktop/Coding_Challenges/Jonathans-Online-SocialMedia-Management/index.html 
+This is the link to my application, https://jleon1393.github.io/Jonathans-Online-SocialMedia-Management/
 
 This is the link to my Github repository that contains my code, https://github.com/JLeon1393/Jonathans-Online-SocialMedia-Management
 
